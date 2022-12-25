@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\kylae\source\repos\asdasdasda\asdasdasda\TPoliz.h(81,23): warning C4018: >=: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  asdasdasda.vcxproj -> C:\Users\kylae\source\repos\asdasdasda\Debug\asdasdasda.exe
